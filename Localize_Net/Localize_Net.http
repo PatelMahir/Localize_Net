@@ -1,0 +1,6 @@
+@Localize_Net_HostAddress = http://localhost:5119
+
+GET {{Localize_Net_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
